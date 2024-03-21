@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/easy-find-closest-value-in-bst/bin/Debug/net6.0
+/.vs
+/easy-find-closest-value-in-bst/obj
